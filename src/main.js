@@ -6,6 +6,7 @@ import Vant from 'vant';
 import 'vant/lib/index.css';
 import { Swipe, SwipeItem } from 'vant';
 import { Lazyload } from 'vant';
+import 'lib-flexible/flexible'
 
 Vue.config.productionTip = false
 Vue.use(Vant);
